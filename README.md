@@ -1,4 +1,4 @@
-# Personalizando Dashboard e trocando as preferências de idioma
+# Personalizando Dashboard e trocando as preferências de idioma no Google Cloud Platform
 
 ## Personalizando Dashboard:
 ![Captura de tela_2023-03-23_12-30-30](https://user-images.githubusercontent.com/47903743/227254394-fb870287-b38e-473f-8d05-4577f60adae0.png)
